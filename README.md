@@ -1,16 +1,41 @@
-## Hi there 👋
+# Ruan B. Rodrigues —
 
-<!--
-**Ruru-kun/Ruru-kun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor | Estudante**  
+"Desenvolvo jogos indie com foco em narrativa interativa. Buscando oportunidades em dev de gameplay e design de sistemas."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projetos em destaque
+- **My Dead Girlfriend Arquive** — _Sério_  
+  > Um site para compilar músicas e discografia da minha banda favorita.  
+  🔗 [Repositório](TEMPLATE)
+
+- **DESTAIN - jogo** — _Hobby_  
+  > Inspirado em ultrakill, um jogo frenético e cheio de sangue (glitter) sobre destruir demônios e salvar o planeta com garotas mágicas...  
+  🔗 [Repositório](TEMPLATE)
+
+- **Sexta a Noite - Visual Novel** — _Aprendizado_  
+  > Estou aprendendo a usar o Ren Py 8.5.2 para criar um VN de uma série antiga e pouco falada.  
+  🔗 [Repositório](TEMPLATE)
+
+---
+
+## 🛠 Skills
+Unity · RenPy · Roblox Studio · RPG Maker
+
+JavaScript · Lua · C#
+
+CSS3 · HTML5 · Photoshop
+
+---
+
+## 📫 Contato
+- Site: https://taplink.cc/rurukun     
+- E-mail: roanbr777@gmail.com
+
+---
+
+## 📌 Como ver mais
+- Repositórios fixados (pinned) no topo do meu perfil!
+
+<!-- Opcional: GitHub stats (se quiser ativar, cole a URL gerada pelo serviço correspondente) -->
