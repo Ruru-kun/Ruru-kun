@@ -30,7 +30,8 @@ CSS3 · HTML5 · Photoshop
 ---
 
 ## 📫 Contato
-- Site: https://taplink.cc/rurukun     
+- Site: https://taplink.cc/rurukun
+- E-mail Profissional: ruanbrodrigues170@gmail.com   
 - E-mail: roanbr777@gmail.com
 
 ---
