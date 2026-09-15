@@ -6,15 +6,15 @@
 ---
 
 ## 🔭 Projetos em destaque
-- **My Dead Girlfriend Arquive** — _Sério_  
+- **My Dead Girlfriend Arquive** — _(Projeto Sério)_  
   > Um site para compilar músicas e discografia da minha banda favorita.  
   🔗 [Repositório](TEMPLATE)
 
-- **DESTAIN - jogo** — _Hobby_  
+- **DESTAIN - jogo** — _(Hobby)_  
   > Inspirado em ultrakill, um jogo frenético e cheio de sangue (glitter) sobre destruir demônios e salvar o planeta com garotas mágicas...  
   🔗 [Repositório](TEMPLATE)
 
-- **Sexta a Noite - Visual Novel** — _Aprendizado_  
+- **Sexta a Noite - Visual Novel** — _(Aprendizado e Estudos)_  
   > Estou aprendendo a usar o Ren Py 8.5.2 para criar um VN de uma série antiga e pouco falada.  
   🔗 [Repositório](TEMPLATE)
 
