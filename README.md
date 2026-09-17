@@ -23,7 +23,7 @@
 ## 🛠 Skills
 Unity · RenPy · Roblox Studio · RPG Maker
 
-JavaScript · Lua · C#
+JavaScript · Lua · Python
 
 CSS3 · HTML5 · Photoshop
 
